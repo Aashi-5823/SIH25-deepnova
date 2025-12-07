@@ -1,4 +1,4 @@
 # SIH25-deepnova
 This is the repository for sih grand finale
 <br>
-writer -aashi,bit sindri
+writer -aashi,bit sindri,dhanbad
